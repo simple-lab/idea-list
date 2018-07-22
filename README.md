@@ -11,6 +11,7 @@
 * [PoiemaWeb | Web Development Tutorial] (https://poiemaweb.com)
 * [Neople Developers] (https://developers.neople.co.kr)
 * [Battlefield 1 - Full Original Soundtrack 4K] (https://youtu.be/HJvZWvecU4Q)
+* [marked.js] (https://github.com/markedjs/marked)
 
 # Google Fonts
 * [Libre Barcode 128 Text] (https://fonts.google.com/specimen/Libre+Barcode+128+Text?selection.family=Libre+Barcode+128+Text)
