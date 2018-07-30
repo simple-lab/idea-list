@@ -18,3 +18,8 @@
 
 # YouTube PlayList
 * [Breaking The Wall | Heaven Sent | Doctor Who | BBC] (https://youtu.be/sl9pTDK8PAk)
+
+# Temp List
+해당 리스트는 개발중 발생한 이슈에 대해 이야기하며 document 페이지를 만들고 나서 추가합니다.
+* [자바스크립트]
+1. 파일 업로드가 중복되어 change이벤트가 발생되지 않을 경우 대상 DOM의 value를 제거(null 혹은 "")해준다.
