@@ -24,4 +24,4 @@
 * [자바스크립트]
 1. 파일 업로드가 중복되어 change이벤트가 발생되지 않을 경우 대상 DOM의 value를 제거(null 혹은 "")해준다.
 
-*[웹폰트 최적화 기법에 관한 몇가지 이야기 | https://showerbugs.github.io/2018-02-02/%EC%9B%B9%ED%8F%B0%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0]
+*[웹폰트 최적화 기법에 관한 몇가지 이야기 ] (https://showerbugs.github.io/2018-02-02/%EC%9B%B9%ED%8F%B0%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0)
