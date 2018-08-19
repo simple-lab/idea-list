@@ -35,6 +35,6 @@
   
   let markdown_body = document.getElementsByClassName('markdown-body')[0];
   
-  markdown_body.insertAdjacentHTML('beforeend', markdown_body);
+  markdown_body.insertAdjacentHTML('beforeend', Why_does_Microsoft_even_bother_with_Edge);
 
 </script>
