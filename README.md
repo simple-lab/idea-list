@@ -28,3 +28,6 @@
 * [웹폰트 최적화 기법에 관한 몇가지 이야기 ] (https://showerbugs.github.io/2018-02-02/%EC%9B%B9%ED%8F%B0%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EA%B8%B0)
 
 * Angular7이라고요? (????????)
+
+
+<script>console.log("print script")</script>
