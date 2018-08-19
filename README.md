@@ -30,4 +30,11 @@
 * Angular7이라고요? (????????)
 
 
-<script>console.log("print script")</script>
+<script id="TestVideoInTheMarkdown">
+  let Why_does_Microsoft_even_bother_with_Edge = '<iframe width="560" height="315" src="https://www.youtube.com/embed/2irD_HtUkls?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>';
+  
+  let markdown_body = document.getElementsByClassName('markdown-body')[0];
+  
+  markdown_body.insertAdjacentHTML('beforeend', markdown_body);
+
+</script>
