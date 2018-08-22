@@ -1,2 +1,4 @@
 var str = "Hello, World";
-console.log(str);
+function Hello() {
+  console.log(str);
+}
